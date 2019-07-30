@@ -1,3 +1,4 @@
 My Name is Komal & We have a conflict i dont want to commit
 we are friends 
-test;test2
+test
+hello
