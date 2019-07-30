@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 My Name is Komal
+=======
+We have a conflict i dont want to commit
+>>>>>>> 5ee724c59829660f87585c2ebc99424a54462d1a
